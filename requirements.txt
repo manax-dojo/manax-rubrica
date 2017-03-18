@@ -1,0 +1,2 @@
+# Django Framework
+django>=1.10
